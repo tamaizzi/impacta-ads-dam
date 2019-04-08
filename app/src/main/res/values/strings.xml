@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MercadoFacil</string>
+    <string name="bem">Bem vindo ao Mercado Facil</string>
+    <string name="login">Para Logar digite seu usuario e senha</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_config">Configurações</string>
+</resources>
